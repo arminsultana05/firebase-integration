@@ -1,0 +1,10 @@
+.header-title nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+
+}
+.header-title nav a:hover{
+    color: goldenrod;
+    cursor: pointer;
+}
